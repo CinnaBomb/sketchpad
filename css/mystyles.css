@@ -23,3 +23,10 @@ button{
   background-color: white;
   border: 1px solid black;
   border-radius: 2px;
+}
+td{
+  border-collapse: collapse;
+  border-spacing: 0px;
+  -webkit-border-horizontal-spacing: 0px;
+  -webkit-border-vertical-spacing: 0px;
+}
